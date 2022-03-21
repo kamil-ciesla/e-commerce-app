@@ -7,8 +7,7 @@ import java.util.List;
 
 @RestController
 public class HelloController {
-    NameProvider nameProvider = new NameProvider();
-
+    NameProvider nameProvider;
     @GetMapping("/hello")
     String hello(){
         return "H1 5 kuba";
