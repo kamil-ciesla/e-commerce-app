@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="419b53ca-c57d-4a50-b5b7-9bca2ca24517" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creditcard/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creditcard/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/creditcard/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/creditcard/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creditcard/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creditcard/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creditcard/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creditcard/NameProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/creditcard/CreditCardTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +51,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
       <recent name="org.example.creditcard" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamil\Documents\Git repositories\e-commerce-app\src\main\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.kciesla.productcatalog" />
       <recent name="org.example.creditcard" />
     </key>
   </component>
